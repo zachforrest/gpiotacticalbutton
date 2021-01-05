@@ -22,8 +22,8 @@ This program is preconfigured to execute the pushtotext rust program that sends 
 - Replace the main.rs and toml file dependencies with the ones in this repository.
 
 ## RUN THE CODE;
-- From terminal run the following command with *pin* being the pin number your want to poll; 'cargo run *pin*'
+- From terminal run the following command with *pin* being the pin number your want to poll; <cargo run *pin*/>
 
-##SEE IF IT WORKS;
+## SEE IF IT WORKS;
 You should see the program start and print aline saying the button is set to "High". When you press the button the terminal will print a line saying "Low" which indicates the button was pressed. If you have placed the pre-compiled pushtotext code into the same folder then it will run the command to start that program as well.
 
