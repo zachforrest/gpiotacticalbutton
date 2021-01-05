@@ -7,7 +7,7 @@ This program is preconfigured to execute the pushtotext rust program that sends 
 
 ### INSTALL RUST;
 - Install rust using the steps for your operating system here: https://www.rust-lang.org/tools/install
-- Test your install by running; 'rustc --version'
+- Test your install by running; `rustc --version`
 
 ### CREATE YOUR RUST PROJECTS FOLDER;
 - Create a new folder for your awesome rust projects; 'mkdir projects'
