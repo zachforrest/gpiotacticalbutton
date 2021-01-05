@@ -27,3 +27,5 @@ This program is preconfigured to execute the pushtotext rust program that sends 
 ## SEE IF IT WORKS;
 You should see the program start and print aline saying the button is set to "High". When you press the button the terminal will print a line saying "Low" which indicates the button was pressed. If you have placed the pre-compiled pushtotext code into the same folder then it will run the command to start that program as well.
 
+Big thanks to the Rust-Embedded team https://github.com/rust-embedded
+Also big thanks to the rust-sysfs-gpio team https://github.com/rust-embedded/rust-sysfs-gpio
